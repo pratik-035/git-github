@@ -3,8 +3,11 @@ console.log("Hii")
 
 const name = "Pratik"
 
-function getName()  { 
-    return name;
+let obj1 = {
+    "name" : "Pratik", 
+    "age" : 21,
+    "email" : "abc@gmail.com",
+    "address" :  "CST"
 }
 
-console.log(getName());
+console.log(obj1);
