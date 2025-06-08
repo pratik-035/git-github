@@ -9,5 +9,3 @@ let obj1 = {
     "email" : "abc@gmail.com",
     "address" :  "CST"
 }
-
-console.log(obj1);
