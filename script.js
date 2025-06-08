@@ -2,10 +2,11 @@
 console.log("Hii")
 
 
-function getName()  { 
-    return name;
+let obj1 = {
+    "name" : "Pratik", 
+    "age" : 21,
+    "email" : "abc@gmail.com",
+    "address" :  "CST"
 }
 
-console.log(getName());
-
-console.log("Hey I am Learning a Git Github")
+console.log(obj1);
