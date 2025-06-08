@@ -1,10 +1,11 @@
 
 console.log("Hii")
 
-const name = "Pratik"
 
 function getName()  { 
     return name;
 }
 
 console.log(getName());
+
+console.log("Hey I am Learning a Git Github")
