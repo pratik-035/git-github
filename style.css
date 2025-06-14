@@ -11,3 +11,8 @@ body {
     align-items: center;
 }
 
+h2 { 
+    background-color: aqua;
+    color: blanchedalmond;
+    border: 3px solid greenyellow;
+}
