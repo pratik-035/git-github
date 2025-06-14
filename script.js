@@ -8,3 +8,12 @@ let obj1 = {
     "email" : "abc@gmail.com",
     "address" :  "CST"
 }
+
+var name = "Roshan"
+
+
+function myName() { 
+    return `My name is ${name}`
+}
+
+console.log(myName());
